@@ -1,0 +1,19 @@
+{
+    "dependencies": {
+        "json-server": "^0.17.0"
+    },
+    "name": "api-churrascometro",
+    "version": "1.0.0",
+    "description": "API para calcular a quantidade de alimentos e bebidas para um churrasco",
+    "devDependencies": {},
+    "scripts": {
+        "start": "json-server --watch db.json --port 3000"
+    },
+    "author": "Thiago",
+    "license": "MIT",
+    "keywords": [
+        "churrasco",
+        "api",
+        "json-server"
+    ]
+}
